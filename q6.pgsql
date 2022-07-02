@@ -1,0 +1,2 @@
+-- Chapter 6: working with strings
+-- SQL is not designed to perform complex string manipulations. Use another language such as Python for string manipulation.
